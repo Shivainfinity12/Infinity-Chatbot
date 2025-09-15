@@ -1,0 +1,37 @@
+[project]
+name = "infinity-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.0.20",
+    "ddgs>=9.5.5",
+    "duckduckgo-search>=8.1.1",
+    "faiss-cpu>=1.12.0",
+    "fastapi>=0.116.1",
+    "google-generativeai>=0.8.5",
+    "huggingface-hub>=0.34.4",
+    "langchain>=0.3.27",
+    "langchain-anthropic>=0.3.19",
+    "langchain-community>=0.3.29",
+    "langchain-core>=0.3.75",
+    "langchain-experimental>=0.3.4",
+    "langchain-google-genai>=2.0.10",
+    "langchain-groq>=0.3.8",
+    "langchain-huggingface>=0.3.1",
+    "langchain-openai>=0.3.32",
+    "numpy>=2.3.2",
+    "openai>=1.104.2",
+    "pdfplumber>=0.11.7",
+    "pydantic>=2.11.7",
+    "pypdf>=6.0.0",
+    "python-dotenv>=1.1.1",
+    "scikit-learn>=1.7.1",
+    "sentence-transformers>=5.1.0",
+    "streamlit>=1.49.1",
+    "tiktoken>=0.11.0",
+    "transformers>=4.56.0",
+    "wikipedia>=1.4.0",
+    "youtube-transcript-api==0.6.2",
+]
