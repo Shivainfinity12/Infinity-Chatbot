@@ -20,7 +20,7 @@ Infinity Chatbot is an experimental AI assistant focused on combining **LLMs, RA
 
 **Python · LangChain · Hugging Face · Transformers · Sentence Transformers · FAISS · ChromaDB · Streamlit · FastAPI · Scikit-learn**
 
-The project configuration currently targets Python 3.12+ and includes integrations for OpenAI, Google, Groq and Anthropic models. citeturn10file0
+The project targets Python 3.12+ and includes integrations for OpenAI, Google, Groq and Anthropic models.
 
 ## 📁 Project Structure
 
